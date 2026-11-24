@@ -1,0 +1,13 @@
+name: pixel_guardians
+description: Pixel action RPG prototype (top-down open world, bosses).
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.0.0
+  shared_preferences: ^2.2.0
+flutter:
+  uses-material-design: true
